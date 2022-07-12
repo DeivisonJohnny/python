@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3cde6b6-8a41-41c9-a6e8-099648be0609" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/.idea/desafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/.idea/desafios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/ex017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/ex019.py" afterDir="false" />
-    </list>
+    <list default="true" id="e3cde6b6-8a41-41c9-a6e8-099648be0609" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +117,7 @@
       <updated>1657371359895</updated>
       <workItem from="1657371362614" duration="336000" />
       <workItem from="1657371819466" duration="1718000" />
+      <workItem from="1657625319785" duration="643000" />
     </task>
     <servers />
   </component>
